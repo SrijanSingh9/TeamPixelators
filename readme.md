@@ -4,6 +4,6 @@ The project, named "EdTech Buddy," is an innovative online platform designed to 
 
 ## Features you may expect :
 
-- **Personalized Recommendations**: Receive tailored suggestions for additional skills and learning pathways based on your profile.
+- **Personalized Recommendations**: Receive tailored suggestions for the courses one can persue based on your profile.
 - **Easy-to-Use Interface**: Navigate the application effortlessly with a user-friendly design and intuitive controls.
 - **A nice bot**: EdTech Buddy Bot 
